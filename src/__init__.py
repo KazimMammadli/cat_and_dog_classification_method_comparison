@@ -1,0 +1,3 @@
+"""Cat and Dog Classification Method Comparison Package."""
+__version__ = "1.0.0"
+__author__ = "Kazim Mammadli"
